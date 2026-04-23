@@ -17,3 +17,5 @@ maximum = max(sorted_numbers)
 
 print(f"Минимальное число: {minimum}")
 print(f"Максимальное число: {maximum}")
+
+print(f"Максимальное число в отсортированном массиве: {sorted_numbers[-1]} ")
